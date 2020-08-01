@@ -32,4 +32,4 @@
 
 [website]: https://adityanarayana.netlify.app/
 [twitter]: https://twitter.com/TheAyt1da
-[mail]: /mailto:adityanarayana@protonmail.com
+[mail]: https://mailto:adityanarayana@protonmail.com
