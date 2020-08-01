@@ -2,7 +2,7 @@
 
 ## I'm a Self taught FullStack-Developer!
 - 😃 I love learning about new things!
-- 🧐 I love solving problems and being creative!
+- 🧐 love solving problems and being creative!
 - 🎮 I like playing games on my ancient pc
 
 
