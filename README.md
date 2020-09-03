@@ -1,10 +1,10 @@
 ### Hey there, I'm Aditya 👋
 
-## I'm a Self taught FullStack-Developer!
+## About Me:
 - 😃 Love learning new things!
 - 🧐 love solving problems and being creative!
 - 🎮 Like playing games on my ancient pc
-- ♟️ Like playing chess
+- ♟  Like playing chess
 
 ### Find me at:
 
