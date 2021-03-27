@@ -3,8 +3,7 @@
 ## About Me:
 - 😃 Love learning new things!
 - 🧐 love solving problems and being creative!
-- 🎮 Like playing games on my ancient pc
-- ♟  Like playing chess
+- 🎮 Like playing games and chess
 
 ### Find me at:
 
