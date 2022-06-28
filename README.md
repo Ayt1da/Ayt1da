@@ -1,9 +1,9 @@
 ### Hey there, I'm Aditya 👋
 
 ## About Me:
-- 😃 Love learning new things!
-- 🧐 love solving problems and being creative!
-- 🎮 Like playing games and chess
+- Autodidact
+- Solving problems and being creative!
+- Technology and CS
 
 ### Find me at:
 
